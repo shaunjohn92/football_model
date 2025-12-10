@@ -1,0 +1,4 @@
+attacker_role,defender_role,side_match,pair_appearances,shots_allowed,fouls_drawn,fouls_committed,cards_committed
+UNK,UNK,central_or_unknown,19810,7166.0,9682.0,10126.0,1619
+UNK,UNK,opp_side,2038,1430.0,1675.0,1664.0,232
+UNK,UNK,same_side,2152,1224.0,1623.0,1650.0,249
